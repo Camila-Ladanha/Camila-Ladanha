@@ -1,14 +1,16 @@
 <div align="center">
 
-# CAMILA LADANHA
-
-### SOFTWARE ENGINEERING · PYTHON · SQL · ARTIFICIAL INTELLIGENCE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:17122B,100:6D28D9&height=180&section=header&text=CAMILA%20LADANHA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%2F%20AI&descAlignY=58&descSize=16" width="100%"/>
 
 <br>
 
-`BUILDING • LEARNING • EVOLVING`
+### `SOFTWARE ENGINEERING • PYTHON • SQL`
 
 <br>
+
+Building my path in technology through practical projects, software development and continuous learning.
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
 
@@ -16,80 +18,61 @@
 
 ---
 
-### `// PROFILE`
+## `01 / ABOUT`
 
-Software Engineering student focused on software development,
-Python and SQL, with a growing interest in Artificial Intelligence.
+🎓 **Software Engineering**
 
-Building practical projects while continuously expanding my
-knowledge in development, databases and emerging technologies.
+🐍 **Python**
 
----
+🗄️ **SQL & Databases**
 
-### `// TECHNOLOGY`
+💻 **Software Development**
 
-**PYTHON** · **SQL** · **GIT** · **GITHUB** · **SOFTWARE ENGINEERING**
-
-<br>
+🤖 **Future focus: Artificial Intelligence**
 
 ---
 
-### `// SELECTED PROJECTS`
+## `02 / PROJECTS`
 
-<table>
-<tr>
+### `05-CENTRAL-DE-BUGS`
 
-<td width="50%">
-
-### 🐍 CENTRAL DE BUGS
-
-Python project focused on conditional logic,
+Python project created to practice conditional logic,
 user input and problem prioritization.
 
-`Python` `Logic` `Git`
-
-</td>
-
-<td width="50%">
-
-### 🗄️ DATABASE PROJECTS
-
-Projects developed while studying SQL,
-databases and data modeling.
-
-`SQL` `Database` `Modeling`
-
-</td>
-
-</tr>
-</table>
+`PYTHON` · `LOGIC` · `GIT`
 
 <br>
 
----
+### `SQL / DATABASE PROJECTS`
 
-### `// GITHUB`
+Projects developed throughout my studies,
+focused on SQL, databases and data modeling.
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Camila-Ladanha&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-Ladanha&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=FFFFFF" />
+`SQL` · `DATABASES`
 
 <br><br>
 
 ---
 
-### `// CURRENT DIRECTION`
+## `03 / GITHUB ACTIVITY`
 
-**SOFTWARE ENGINEERING → ARTIFICIAL INTELLIGENCE**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Camila-Ladanha&show_icons=true&hide_border=true&bg_color=050505&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
 
-<br>
-
-`PYTHON` `SQL` `DATA` `AI`
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-Ladanha&layout=compact&hide_border=true&bg_color=050505&title_color=8B5CF6&text_color=FFFFFF" />
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/camilaladanha">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" />
-</a>
+---
 
-</div>
+## `04 / CURRENT PATH`
+
+```text
+SOFTWARE ENGINEERING
+        ↓
+  DEVELOPMENT
+        ↓
+     PYTHON
+        ↓
+      DATA
+        ↓
+ARTIFICIAL INTELLIGENCE
