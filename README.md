@@ -1,32 +1,95 @@
 <div align="center">
 
-# 👩🏻‍💻 Camila Ladanha
+# CAMILA LADANHA
 
-### `Software Engineering Student` · `Python` · `SQL` · `Artificial Intelligence`
+### SOFTWARE ENGINEERING · PYTHON · SQL · ARTIFICIAL INTELLIGENCE
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/camilaladanha)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Camila-Ladanha)
+`BUILDING • LEARNING • EVOLVING`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
+
+<br><br>
+
+---
+
+### `// PROFILE`
+
+Software Engineering student focused on software development,
+Python and SQL, with a growing interest in Artificial Intelligence.
+
+Building practical projects while continuously expanding my
+knowledge in development, databases and emerging technologies.
+
+---
+
+### `// TECHNOLOGY`
+
+**PYTHON** · **SQL** · **GIT** · **GITHUB** · **SOFTWARE ENGINEERING**
+
+<br>
+
+---
+
+### `// SELECTED PROJECTS`
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🐍 CENTRAL DE BUGS
+
+Python project focused on conditional logic,
+user input and problem prioritization.
+
+`Python` `Logic` `Git`
+
+</td>
+
+<td width="50%">
+
+### 🗄️ DATABASE PROJECTS
+
+Projects developed while studying SQL,
+databases and data modeling.
+
+`SQL` `Database` `Modeling`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+### `// GITHUB`
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Camila-Ladanha&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-Ladanha&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=FFFFFF" />
+
+<br><br>
+
+---
+
+### `// CURRENT DIRECTION`
+
+**SOFTWARE ENGINEERING → ARTIFICIAL INTELLIGENCE**
+
+<br>
+
+`PYTHON` `SQL` `DATA` `AI`
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/camilaladanha">
+<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" />
+</a>
 
 </div>
-
----
-
-## 🖤 About Me
-
-I'm a Software Engineering student building my path in technology through practical projects and continuous learning.
-
-🐍 **Python** · 🗄️ **SQL** · 💻 **Software Engineering** · 🤖 **Artificial Intelligence**
-
-My goal is to strengthen my foundations in software development and gradually move towards **Artificial Intelligence and AI Engineering**.
-
----
-
-## ⚡ Currently Learning
-
-```text
-Python              ████████░░
-SQL                 ██████░░░░
-Software Engineering ███████░░░
-Artificial Intelligence ████░░░░░░
