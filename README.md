@@ -1,21 +1,14 @@
-<div align="center">
+Camila Nunes Ladanha
 
-# C A M I L A  L A D A N H A
+Oii! Eu sou a Camila, estudante de Engenharia de Software
+e estou construindo minha trajetória na tecnologia.
 
-`software engineering`  ·  `python`  ·  `sql`  ·  `ai`
+Python • SQL • Git • GitHub
 
-<br>
+[ícones das tecnologias]
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github&theme=dark" />
+[ LinkedIn ] [ GitHub ]
 
-<br><br>
+──────────────
 
-**building things. learning things.**
-
-<br>
-
-<a href="https://www.linkedin.com/in/camilaladanha">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=8B5CF6"/>
-</a>
-
-</div>
+Projetos em destaque
