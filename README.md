@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Camila-Ladanha/Camila-Ladanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩🏻‍💻 Camila Ladanha
 
-Here are some ideas to get you started:
+### `Software Engineering Student` · `Python` · `SQL` · `Artificial Intelligence`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Camila-Ladanha)
+
+</div>
+
+---
+
+## 🖤 About Me
+
+I'm a Software Engineering student building my path in technology through practical projects and continuous learning.
+
+🐍 **Python** · 🗄️ **SQL** · 💻 **Software Engineering** · 🤖 **Artificial Intelligence**
+
+My goal is to strengthen my foundations in software development and gradually move towards **Artificial Intelligence and AI Engineering**.
+
+---
+
+## ⚡ Currently Learning
+
+```text
+Python              ████████░░
+SQL                 ██████░░░░
+Software Engineering ███████░░░
+Artificial Intelligence ████░░░░░░
